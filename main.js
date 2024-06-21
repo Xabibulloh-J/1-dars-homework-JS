@@ -8,7 +8,7 @@ var userAge = prompt("Yoshingizni kiriting:");
 
 var userNation = prompt("Millatingizni kiriting:", "o'zbek");
 
-var userEmail = prompt("Email addressingizni kiriting", "example@gmail.com");
+var userEmail = prompt("Email manzilingizni kiriting:", "example@gmail.com");
 
 var userPhoneNumber = prompt("Telefon raqamingizni kiriting:", "+998 (12) 345-67-89");
 
